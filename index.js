@@ -6,8 +6,8 @@ import {
 const INFO = {
   HAS_NATIVE: false,
   IMEI: [],
-  SIM1_READY: null;
-  SIM2_READY: null;
+  SIM1_READY: null,
+  SIM2_READY: null,
 };
 
 if (Platform.OS === 'android' && NativeModules.SimInfoAndroid) {

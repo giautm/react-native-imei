@@ -1,6 +1,6 @@
 {
-  "name": "react-native-android-imei",
-  "version": "0.0.2",
+  "name": "react-native-phone-imei",
+  "version": "0.0.1",
   "description": "React Native module for getting Android IMEIs",
   "main": "index.js",
   "repository": "git@github.com:giautm/react-native-imei.git",
